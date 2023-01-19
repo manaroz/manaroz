@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 -->
 # <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> manaroz
 
-### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Craftswoman`**
+#### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Craftswoman`**
 
-Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a student of Informatics and Econometrics University of Gdańsk. Programming is my hobby and I'm learning, how to do it better. This is my student account.
+#### *Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a student of Informatics and Econometrics University of Gdańsk. Programming is my hobby and I'm learning, how to do it better. This is my student account.*
 
 ---
 
 ## About me
-- 🔭 **Current Career Path:** Junior Office Helpdesk IT and System Administrator in a Law Office
-- 🤖 **I’m currently learning:** To become a good programmer
-- 🦆 **Favorite Hobby:** Bird-watching, Walks, Mixed technique painting
-- 😍 **Favorite Programming Language:** *C#*
+- 🔭 **Current Career Path:** *Junior Office Helpdesk IT and System Administrator in a Law Office*
+- 🤖 **I’m currently learning:** *How to become a programmer*
+- 🦆 **Favorite Hobby:** Bird-watching, *Walks, Mixed technique painting, Music, Flowers*
+- 😍 **Favorite Programming Language:** *C#* *Python* *PHP*
 - 🤩 **Favorite Text Editor:** *[Visual Studio Code](https://code.visualstudio.com/)*
-- 🎧 **Music While Coding:** [Mozart](https://music.apple.com/us/playlist/wolfgang-amadeus-mozart-essentials/pl.63696b0b53a24734a0f1f34c92ccd5c4)
+- 🎧 **Music While Coding:** *[Mozart](https://music.apple.com/us/playlist/wolfgang-amadeus-mozart-essentials/pl.63696b0b53a24734a0f1f34c92ccd5c4)*
 
 ## Education
 
@@ -36,6 +36,11 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 ## Certifications
 
 - [Basic PHP Course](https://codeme.pl/)
+
+## Contact with me
+
+<p align="left">
+<a href="www.linkedin.com/in/gosia-roza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaroz" height="30" width="40" /></a>
 
 ## Favorite Languages & Tools that I learn
 
@@ -49,6 +54,7 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 <img alt="C-Lang" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img alt="Git" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img alt="Github" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
+
 
 #
 
