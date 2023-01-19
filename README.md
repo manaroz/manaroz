@@ -55,10 +55,9 @@ Here are some ideas to get you started:
 <img alt="Git" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img alt="Github" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <br />
+<br />
 
 ### 📊 Stats
-
-![Manaroz'5 GitHub stats](https://github-readme-stats.vercel.app/api?username=manaroz&show_icons=true&theme=gruvbox)
 
 ![Manaroz's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=manaroz&show_icons=true&theme=dark&locale=en&layout=compact)
 
