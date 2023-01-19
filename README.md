@@ -37,7 +37,7 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 - [Basic PHP Course](https://codeme.pl/)
 
-## Favorite Languages & Tools
+## Favorite Languages & Tools that I learn
 
 <img alt="C-Lang" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" />
 <img alt="Python" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
