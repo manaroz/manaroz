@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> Gosia Różańska
+# <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> manaroz
 
-#### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Geek`**
+#### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Craftswoman`**
 
 #### *Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a student of Informatics and Econometrics University of Gdańsk. Programming is my hobby and I'm learning, how to do it better. This is my student account.*
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/gosia-roza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gosia-roza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gosia-roza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gosia-roza" height="30" width="40" /></a></p>
 
 ## Favorite Languages & Tools that I learn
 
@@ -56,16 +56,16 @@ Here are some ideas to get you started:
 <img alt="Github" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <br />
 
-#
+## 
 
 ### 📊 Stats
 
-![Manaroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=manaroz&show_icons=true&theme=gruvbox)
+![Manaroz'5 GitHub stats](https://github-readme-stats.vercel.app/api?username=manaroz&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Manaroz's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=manaroz&show_icons=true&theme=dark&locale=en&layout=compact)
 
-#
+##
 
 <details>
- <summary><h3>🌹 Manaroz's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Manaroz's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science passionate about learn everything I could about this programming world. And all the while, teaching myself development with a dream to build my own app, but that soon got overshadowed by my desire to excel in C# and .NET. A desire that landed me in a computer science. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. That's why I turned my back on programming for a while to start working safely in a law firm's office. Now it's time for a change I'm ready for, I've already taken the leap away from that safety net into this interesting world that it being a programmer.
