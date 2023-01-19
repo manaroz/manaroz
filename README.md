@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> manaroz
 
-#### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Craftswoman`**
+#### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Geek`**
 
 #### *Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a student of Informatics and Econometrics University of Gdańsk. Programming is my hobby and I'm learning, how to do it better. This is my student account.*
 
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 <img alt="Git" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img alt="Github" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <br />
+<br />
 
-## 
 
 ### 📊 Stats
 
