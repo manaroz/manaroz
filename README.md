@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> manaroz
+# <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> Gosia Różańska
 
 #### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Craftswoman`**
 
