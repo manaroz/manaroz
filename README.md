@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## Contact with me
 
 <p align="left">
-<a href="www.linkedin.com/in/gosia-roza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaroz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gosia-roza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gosia-roza" height="30" width="40" /></a>
 
 ## Favorite Languages & Tools that I learn
 
