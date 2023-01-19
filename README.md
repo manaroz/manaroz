@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 ##
 
 <details>
- <summary><h3>👨‍💻 Manaroz's Coding Journey</h3></summary>
+ <summary><h3>🌹 Manaroz's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science passionate about learn everything I could about this programming world. And all the while, teaching myself development with a dream to build my own app, but that soon got overshadowed by my desire to excel in C# and .NET. A desire that landed me in a computer science. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. That's why I turned my back on programming for a while to start working safely in a law firm's office. Now it's time for a change I'm ready for, I've already taken the leap away from that safety net into this interesting world that it being a programmer.
