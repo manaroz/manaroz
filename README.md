@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> manaroz
+# <g-emoji class="g-emoji" alias="turtle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji> Gosia Różańska
 
 #### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Geek`**
 
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ## About me
 - 🔭 **Current Career Path:** *Junior Office Helpdesk IT and System Administrator in a Law Office*
 - 🤖 **I’m currently learning:** *How to become a programmer*
-- 🦆 **Favorite Hobby:** Bird-watching, *Walks, Mixed technique painting, Music, Flowers*
-- 😍 **Favorite Programming Language:** *C#* *Python* *PHP*
+- 🦆 **Favorite Hobby:** *Bird-watching, Walks, Mixed technique painting, Music, Flowers*
+- 😍 **Favorite Programming Language:** *C#, Python, PHP*
 - 🤩 **Favorite Text Editor:** *[Visual Studio Code](https://code.visualstudio.com/)*
 - 🎧 **Music While Coding:** *[Mozart](https://music.apple.com/us/playlist/wolfgang-amadeus-mozart-essentials/pl.63696b0b53a24734a0f1f34c92ccd5c4)*
 
@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 <img alt="Git" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
 <img alt="Github" align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <br />
-<br />
-
 
 ### 📊 Stats
 
