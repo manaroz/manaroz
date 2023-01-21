@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 
 ![Manaroz's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=manaroz&show_icons=true&theme=dark&locale=en&layout=compact)
 
+![Visitor Count](https://profile-counter.glitch.me/manaroz/count.svg)
+
 ##
 
 <details>
