@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## Education
 
 - [Informatics and Ekonometrics University of Gdańsk](https://ug.edu.pl/)
-- [Informatics WSB Merito University Gdansk]([https://ug.edu.pl/](https://www.merito.pl/english/gdansk/)
+- [Informatics WSB Merito University Gdansk](https://www.merito.pl/english/gdansk/)
 
 ## Certifications
 
