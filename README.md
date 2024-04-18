@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### <g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f421.png"> **`Digital Geek`**
 
-#### *Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a student of Informatics and Econometrics University of Gdańsk. Programming is my hobby and I'm learning, how to do it better. This is my student account.*
+#### *Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm a student of Informatics University Merito of Gdańsk. Programming is my hobby and I'm learning, how to do it better. This is my student account.*
 
 ---
 
