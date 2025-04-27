@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ## About me
-- 🔭 **Current Career Path:** *Junior Office Helpdesk IT and System Administrator in a Law Office*
+- 🔭 **Current Career Path:** *Office Helpdesk IT and System Administrator in a Law Office*
 - 🤖 **I’m currently learning:** *How to become a programmer*
 - 🦆 **Favorite Hobby:** *Bird-watching, Walks, Mixed technique painting, Music, Flowers*
 - 😍 **Favorite Programming Language:** *C#, Python, PHP*
